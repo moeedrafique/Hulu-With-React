@@ -1,4 +1,4 @@
-const API_KEY = "a6cf565ec8ec18337d1035e9dd0506b5";
+const API_KEY = "YOUR-API-KEY";
 
 
 const requests = {
